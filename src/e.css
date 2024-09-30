@@ -1,0 +1,14 @@
+.c1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-inline: 10%;
+    color: white;
+}
+.link{
+    color: white;
+    text-decoration: none;
+}
+body {
+    background-color: #303030;
+}
